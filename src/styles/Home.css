@@ -1,0 +1,13 @@
+.welcome-message {
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 8px rgba(80, 59, 128, 0.8);
+    color: #f2eef7;
+    padding: 20px 20px 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.approval-msg {
+    color:rgb(35, 22, 67);
+}

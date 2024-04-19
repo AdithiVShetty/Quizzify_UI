@@ -1,0 +1,42 @@
+.container {
+    margin-top: 70px;
+}
+.app-name-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.app-name {
+    font-size: 48px;
+    font-weight: 600;
+    color: rgb(80, 59, 128)
+}
+
+h2{
+    color: rgb(80, 59, 128);
+}
+.form-control {
+    font-size: 14px;
+    border-left: 4px solid rgb(80, 59, 128);
+}
+.form-control:focus {
+    box-shadow: none;
+    border: none;
+    
+    border-left: none;
+    border-bottom: 3px solid rgb(80, 59, 128);
+}
+label {
+    float: left;
+    font-size: 15px;
+    color: rgb(35, 22, 67);
+}
+.form-group {
+    margin-top: 0;
+  }
+.link {
+    color: rgb(80, 59, 128);
+    font-size: 14px;
+}
+.link:hover {
+    cursor: pointer;
+}
